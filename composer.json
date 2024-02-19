@@ -1,0 +1,16 @@
+{
+    "name": "flamephpdev/flame-query",
+    "autoload": {
+        "psr-4": {
+            "FlamePHPDev\\FlameQuery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "űű"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
